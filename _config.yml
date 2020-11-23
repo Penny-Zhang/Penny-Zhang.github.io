@@ -1,5 +1,5 @@
 # main text of home
-name: Jianwei Wang
+name: Jiaping Zhang
 bio: for fun.
 
 # twitter summary info
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: jianwei.wang.9250
-twitter: jianweiwang6
+facebook: Jiaping Zhang
+twitter: Ppy
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: guaiyoui
+github: Penny-Zhang
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -49,15 +49,15 @@ github: guaiyoui
 # reddit: username
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: jianweiwang@zju.edu.cn
+email: Penny.Zhang1998@outlook.com
 
 authors:
-  jianweiwang:
-    name: Jianwei Wang
+  Jiaping Zhang:
+    name: Jiaping Zhang
     bio: fly and touch the sky
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: jianweiwang6
+    twitter: Ppy
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
