@@ -4,12 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p style="text-align: justify;">
-    <strong>Greetings and welcome!</strong> It's a pleasure to meet you. I am a student at TUM, specializing in Robotics, Cognition, and Intelligence. My passion lies in exploring the realms of Machine Learning and Data Analysis. Let's delve into the fascinating world of technology and knowledge together!
+<p>
+    <strong>Greetings and welcome! It's a pleasure to meet you. I am a student at TUM, specializing in Robotics, Cognition, and Intelligence. My passion lies in exploring the realms of Machine Learning and Data Analysis. Let's delve into the fascinating world of technology and knowledge together! </strong>
 </p>
 
-<p style="text-align: justify;">
-    <strong>Here is my CV,</strong> providing further details about my background and experiences.  <a href="../files/cv.pdf">CV</a>.
+<p>
+    <strong>Here is my CV,</strong> providing further details about my background and experiences.  <a href="../files/cv.pdf"> CV </a>.
 </p>
 
 <h2>Skills</h2>
