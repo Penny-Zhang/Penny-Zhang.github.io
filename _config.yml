@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: Jiaping Zhang
-twitter: Ppy
+facebook: https://www.facebook.com/jiaping.zhang.52
+# twitter: Ppy
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/jiaping-zhang-54bba1218/
 # youtube: myyoutube
 # spotify: myspotify
-github: Penny-Zhang
+github: https://github.com/Penny-Zhang/
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -54,10 +54,10 @@ email: Penny.Zhang1998@outlook.com
 authors:
   Jiaping Zhang:
     name: Jiaping Zhang
-    bio: fly and touch the sky
+    bio: Delve deeper, learn extensively, and remain open-minded.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: Ppy
+    # twitter: Ppy
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
