@@ -3,7 +3,7 @@ name: Jiaping Zhang
 bio: Delve deeper, learn extensively, and remain open-minded.
 
 # twitter summary info
-description: A blog dedicated to the Learning Path of Machine Learning and Data Analysis.
+description: A blog dedicated to the Learning Path of Machine Learning and Data Analysis
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,7 +54,7 @@ email: Penny.Zhang1998@outlook.com
 authors:
   Jiaping Zhang:
     name: Jiaping Zhang
-    bio: Delve deeper, learn extensively, and remain open-minded.
+    bio: Delve deeper, learn extensively, and remain open-minded
     external-image: false
     picture: assets/images/profile.jpg
     # twitter: Ppy
