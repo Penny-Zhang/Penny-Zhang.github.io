@@ -23,16 +23,16 @@ I was born in Zhejiang Province, P.R. China on September 20. I am now studying I
 <h2>Projects</h2>
 
 <ul>
-	<li>Machine Learning for Medical Images: 
-	- Adapted 2D Y-Net to the 3D domain.
-	- Trained the 3D segmentation model in a few-shot setting using meta-learning to tackle the issue of limited medical data availability.
+	<li><strong>Machine Learning for Medical Images:</strong> 
+	<br>- Adapted 2D Y-Net to the 3D domain.
+	<br>- Trained the 3D segmentation model in a few-shot setting using meta-learning to tackle the issue of limited medical data availability.
     </li>
-	<li>Machine Learning for 3D Reconstruction:
-	- Performed shape reconstruction from a single-view image.
-	- Employed a classification network to extract global features and combine them with local features derived from the single-view image. This fusion of features enables the 3D network to acquire sufficient information for successful shape reconstruction.
+	<li><strong>Machine Learning for 3D Reconstruction:</strong>
+	<br>- Performed shape reconstruction from a single-view image.
+	<br>- Employed a classification network to extract global features and combine them with local features derived from the single-view image. This fusion of features enables the 3D network to acquire sufficient information for successful shape reconstruction.
 	</li>
-	<li>Autonomous Search and Rescue System:
-	- Utilized a simulated avalanche scene and UAV model built by Unity.
-	- Implement Robot Operating System (ROS) for detector simulation, path planning, trajectory planning, and control.
+	<li><strong>Autonomous Search and Rescue System:</strong>
+	<br>- Utilized a simulated avalanche scene and UAV model built by Unity.
+	<br>- Implemented Robot Operating System (ROS) for detector simulation, path planning, trajectory planning, and control.
 	</li>
 </ul>
