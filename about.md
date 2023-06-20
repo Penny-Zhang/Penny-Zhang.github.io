@@ -7,7 +7,7 @@ layout: page
 <p></p>
 Greetings and welcome! It's a pleasure to meet you. I am a student at TUM, specializing in Robotics, Cognition, and Intelligence. My passion lies in exploring the realms of Machine Learning and Data Analysis. I'm thrilled to engage in conversations with you, so please don't hesitate to reach out. Let's delve into the fascinating world of technology and knowledge together!
 
-<p>Here is my <a href="../files/cv.pdf">CV</a>.</p>
+<p> Here is my CV, providing further details about my background and experiences<a href="../files/cv.pdf">CV</a>.</p>
 
 <h2>Skills</h2>
 
