@@ -1,5 +1,5 @@
 ---
-title: "Bachelor's thesis: Research on Smart Distribution Strategy of E-commerce Platform in Europe Based on Short-term Demand"
+title: "Bachelor's thesis"
 layout: post
 date: 2017-07-01 22:10
 tag: Jiaping Zhang
