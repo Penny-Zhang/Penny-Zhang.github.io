@@ -13,6 +13,18 @@ externalLink: false
 
 The topic of my bachelor's thesis is Research on Smart Distribution Strategy of E-commerce Platform in Europe Based on Short-term Demand.
 
+Background:
+
+...
+
+Goal:
+
+...
+
+Result:
+
+...
+
 [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
 ---
