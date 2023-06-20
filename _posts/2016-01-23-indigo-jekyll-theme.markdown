@@ -1,11 +1,11 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Bachelor's thesis: Research on Smart Distribution Strategy of E-commerce Platform in Europe Based on Short-term Demand"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2017-07-01 22:10
+tag: Jiaping Zhang
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is a dedicated page to discuss the accomplishments of my Bachelor's thesis."
 category: project
 author: Penny-Zhang
 externalLink: false
