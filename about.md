@@ -9,7 +9,7 @@ layout: page
 </p>
 
 <p>
-    <strong>Here is my CV,</strong> providing further details about my background and experiences.  <a href="../files/cv.pdf"> CV </a>.
+    Here is my CV, providing further details about my background and experiences  <a href="../files/cv.pdf"> CV </a>.
 </p>
 
 <h2>Skills</h2>
